@@ -1,0 +1,13 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "id": "400c22c9-553b-4f4a-b4ed-419a03e22578",
+    "author": "Hao Fu",
+    "description": {
+        "": "Export every body in a design to STL files with shared settings, and bundle bodies into single STL files."
+    },
+    "version": "1.0.0",
+    "runOnStartup": true,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
